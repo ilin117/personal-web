@@ -1,0 +1,21 @@
+#firstSemesterClasses li {
+  width: 200px;
+}
+
+#firstSemesterClasses h1 {
+  color: rgb(0, 0, 0);
+}
+
+.options a {
+  transition-property: color;
+  transition-duration: 0.05s;
+  transition-timing-function: ease-in-out;
+}
+
+.options a:visited {
+  color: rgb(185, 151, 91);
+}
+
+.options a:hover {
+  color: rgb(0, 0, 0);
+}
